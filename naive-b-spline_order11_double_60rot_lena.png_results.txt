@@ -1,0 +1,5 @@
+naive-b-spline_order11_double_60rot_lena.png latest test :
+	erreur rms : 148618.764182
+	erreur L1 : 6294.156423
+	erreur max : 20698355.319545
+	duree : 38.065000s

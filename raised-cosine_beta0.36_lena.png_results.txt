@@ -1,0 +1,5 @@
+raised-cosine_beta0.36_lena.png latest test :
+	erreur rms : 828.852295
+	erreur L1 : 503.147064
+	erreur max : 13638.214844
+	duree : 778.429016s

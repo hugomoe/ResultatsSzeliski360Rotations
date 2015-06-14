@@ -1,0 +1,5 @@
+b-spline_order9_double_lena.png latest test :
+	erreur rms : 6.843022
+	erreur L1 : 4.037093
+	erreur max : 86.855512
+	duree : 6114.147000s

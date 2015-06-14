@@ -1,0 +1,5 @@
+cubic-spline_lena.png latest test :
+	erreur rms : 20.570599
+	erreur L1 : 12.376705
+	erreur max : 163.455399
+	duree : 237.479996s

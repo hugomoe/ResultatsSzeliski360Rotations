@@ -1,0 +1,105 @@
+raised-cosine_beta0.36_lena.png :
+	erreur rms : 828.852295
+	erreur L1 : 503.147064
+	erreur max : 13638.214844
+	duree : 778.429016s
+raised-cosine_beta0.35_lena.png:
+	erreur rms : 1679.296753
+	erreur L1 : 999.657654
+	erreur max : 30271.876953
+	duree : 778.007996s
+raised-cosine_beta0.37_lena.png :
+	erreur rms : 418.441589
+	erreur L1 : 258.373871
+	erreur max : 5945.224121
+	duree : 778.007996s
+raised-cosine_beta0.38_lena.png :
+	erreur rms : 214.655594
+	erreur L1 : 134.366898
+	erreur max : 2999.246826
+	duree : 777.882996s
+raised-cosine_beta0.39_lena.png :
+	erreur rms : 111.035118
+	erreur L1 : 70.253632
+	erreur max : 1453.637939
+	duree : 777.539978s
+raised-cosine_beta0.40_lena.png :
+	erreur rms : 57.555141
+	erreur L1 : 36.523037
+	erreur max : 658.917847
+	duree : 778.818970s
+raised-cosine_beta0.41_lena.png :
+	erreur rms : 30.796656
+	erreur L1 : 19.385366
+	erreur max : 366.606995
+	duree : 778.398010s
+raised-cosine_beta0.42_lena.png :
+	erreur rms : 20.423779
+	erreur L1 : 13.150321
+	erreur max : 259.302063
+	duree : 777.960022s
+raised-cosine_beta0.43_lena.png :
+	erreur rms : 19.696980
+	erreur L1 : 12.603358
+	erreur max : 196.133972
+	duree : 778.023010s
+raised-cosine_beta0.44_lena.png :
+	erreur rms : 21.990147
+	erreur L1 : 13.969311
+	erreur max : 172.060745
+	duree : 778.318970s
+raised-cosine_beta0.45_lena.png :
+	erreur rms : 24.426682
+	erreur L1 : 15.724008
+	erreur max : 172.649261
+	duree : 778.085999s
+cubic-spline_lena.png :
+	erreur rms : 20.570599
+	erreur L1 : 12.376705
+	erreur max : 163.455399
+	duree : 237.479996s
+b-spline_order3_lena.png :
+	erreur rms : 14.869476
+	erreur L1 : 8.520798
+	erreur max : 158.043518
+	duree : 1268.177979s
+b-spline_order5_lena.png :
+	erreur rms : 9.854059
+	erreur L1 : 5.601108
+	erreur max : 125.244347
+	duree : 2732.247070s
+b-spline_order7_double_lena.png :
+	erreur rms : 7.934983
+	erreur L1 : 4.611264
+	erreur max : 103.807242
+	duree : 4295.800000s
+b-spline_order9_double_lena.png :
+	erreur rms : 6.843022
+	erreur L1 : 4.037093
+	erreur max : 86.855512
+	duree : 6114.147000s
+b-spline_order11_double_lena.png :
+	erreur rms : 6.163734
+	erreur L1 : 3.670397
+	erreur max : 75.427856
+	duree : 8075.205000s
+naive-b-spline_order11_double_60rot_lena.png :
+	erreur rms : 148618.764182
+	erreur L1 : 6294.156423
+	erreur max : 20698355.319545
+	duree : 38.065000s
+naive-b-spline_order11_double_6rot_lena.png :
+	erreur rms : 3.697313
+	erreur L1 : 2.200092
+	erreur max : 63.772422
+	duree : 3.805000s
+naive-b-spline_order11_double_120rot_lena.png :
+	erreur rms : 220389121337548983464527659008.000000
+	erreur L1 : 5574361241749721626924023808.000000
+	erreur max : 45838207236034941881279987056640.000000
+	duree : 82.962000s
+naive-b-spline_order11_double_lena.png :
+	erreur rms : inf
+	erreur L1 : 1093782412305230831403444625137711468661561000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+	erreur max : 1540172862642602713206304240246674314820599000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+	duree : 261.270000s
