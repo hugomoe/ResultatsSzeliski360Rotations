@@ -8,9 +8,11 @@
 #include "ftr.c"
 #include "iio.c"
 
+/** description de run360.c un peu plus bas */
+
 ///choose an interpolation
 //#define _IMG_TO_DOUBLE //cast all images as double
-#define INTERPOLATION_TYPE 0 //reste � faire toutes les b splines et les tests en type double
+#define INTERPOLATION_TYPE 0 //reste à faire toutes les b splines et les tests en type double
     /*
      * interpolation type :
      * 0 -> raised cosine-weighted sinc
@@ -21,7 +23,20 @@
 #define BETA 0.36 //beta for raised cosine (0.36+)
 #define ORDER 3 //order of the B-Spline (3,5 float and 7,9,11 double)
 #define NB_ROTATION 360 //must be even
-/** end of the choice */
+///end of the choice
+
+/**
+ * Permet de tester 360 (ou NB_ROTATION) rotations et les comparer à l'identité.
+ * 
+ * Imprime une image .png contenant l'image tournée
+ * Imprime un fichier .txt associé contenant les résultats numériques de cette comparaison
+ * Écrit à la suite de all_result.txt ce qui a été imprimé dans le .txt précédemment mentionné
+ * 
+ * Avant de commencer ses propres tests sur une nouvelle machine, renommer le fichier all_results.txt afin de ne pas mélanger les résultats
+ * Le choix de l'interpolation se fait via les #define ci-dessus
+ * 
+ * Les images imprimées sont au format .png
+ */
 
 
 
