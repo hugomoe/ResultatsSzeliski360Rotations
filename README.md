@@ -8,4 +8,4 @@ Pour lancer des tests, renommer d'abord le fichier "all_results.txt" afin que le
 Pour changer de type d'interpolation ou un paramètre d'interpolation (ordre de la B-Spline, beta du raised-cosine), modifier l'en-tête du fichier "run360.c" (entre "///choose an interpolation" et "///end of the choice"). Recompiler ensuite.
 
 
-Attention, le code tel quel imprime les images en .png. Ceux (celui) qui n'ont pas accès aux bibliothèques libpng et/ou qui ne peuvent pas écrire en .png devront se passer du code, ou le modifier en conséquences.
+Attention, le code n'ouvre pas une fenêtre graphique, il sauvegarde l'image (au même format que l'image d'entrée)
