@@ -26,17 +26,17 @@
 ///end of the choice
 
 /**
- * Permet de tester 360 (ou NB_ROTATION) rotations et les comparer à l'identité.
- * 
- * Imprime une image .png contenant l'image tournée
- * Imprime un fichier .txt associé contenant les résultats numériques de cette comparaison
- * Écrit à la suite de all_result.txt ce qui a été imprimé dans le .txt précédemment mentionné
- * 
- * Avant de commencer ses propres tests sur une nouvelle machine, renommer le fichier all_results.txt afin de ne pas mélanger les résultats
- * Le choix de l'interpolation se fait via les #define ci-dessus
- * 
- * Les images imprimées sont au format .png
- */
+  * Permet de tester 360 (ou NB_ROTATION) rotations et les comparer à l'identité.
+  * 
+  * Imprime une image .png contenant l'image tournée
+  * Imprime un fichier .txt associé contenant les résultats numériques de cette comparaison
+  * Écrit à la suite de all_result.txt ce qui a été imprimé dans le .txt précédemment mentionné
+  * 
+  * Avant de commencer ses propres tests sur une nouvelle machine, renommer le fichier all_results.txt afin de ne pas mélanger les résultats
+  * Le choix de l'interpolation se fait via les #define ci-dessus
+  * 
+  * Les images imprimées sont au format .png
+  */
 
 
 
