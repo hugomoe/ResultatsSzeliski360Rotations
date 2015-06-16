@@ -1,0 +1,10 @@
+Rotations : 
+rotations : 60
+erreur rms : 16.722345
+erreur L1 : 9.162965
+erreur sup : 178.293762
+
+360 rotations:
+erreur rms : 14.187158
+erreur L1 : 7.779127
+erreur sup : 211.168716
