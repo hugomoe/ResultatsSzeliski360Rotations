@@ -1,0 +1,5 @@
+linear_lena.png latest test :
+	erreur rms : 38.090347
+	erreur L1 : 27.526129
+	erreur max : 184.129517
+	duree : 17.909000s

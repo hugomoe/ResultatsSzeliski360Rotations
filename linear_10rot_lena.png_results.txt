@@ -1,0 +1,5 @@
+linear_10rot_lena.png latest test :
+	erreur rms : 14.722478
+	erreur L1 : 8.548452
+	erreur max : 147.430206
+	duree : 0.468000s
